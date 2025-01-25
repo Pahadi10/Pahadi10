@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Nitesh Singh Bhandari from Haryana, India<br><br>- 🔭 I’m a Computer Science Engineering Student<br>- 📚 I'm currently learning Mern Stack<br>- ⚡ In my free time I debug codes 😒</p>
+<p align="left">I'm Nitesh Singh Bhandari from Haryana, India<br><br>🔭 I’m a Computer Science Engineering Graduate<br><br>⚡ In my free time I debug codes 😒</p>
 
 ###
 
